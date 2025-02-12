@@ -1,0 +1,9 @@
+# Neovim swap files
+*.swp
+
+# Neovim backup files
+*.bak
+
+# Neovim undo files
+*.un~ 
+
